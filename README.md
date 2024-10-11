@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **AdonisJS, Next.js**
 
-- 👨‍💻 All of my projects are available at [alexandre-artisien.fr](alexandre-artisien.fr)
+- 👨‍💻 All of my projects are available at [alexandre-artisien.fr](https://alexandre-artisien.fr)
 
 - 💬 Ask me about **React, Express**
 
 - 📫 How to reach me **alexandre.artisien@gmail.com**
 
-- 📄 Know about my experiences [alexandre-artisien.fr/cv](alexandre-artisien.fr/cv)
+- 📄 Know about my experiences [alexandre-artisien.fr/cv](https://alexandre-artisien.fr/cv)
 
 - ⚡ Fun fact **I am a very good imitator 😉**
 
